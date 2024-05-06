@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidUSBCamera</string>
+    <string name="start">USBStart</string>
+    <string name="end">USBEnd</string>
+    <string name="capture">USBCapture</string>
+    <string name="video_start">USBVideoStart</string>
+    <string name="video_end">USBVideoEnd</string>
+
+    <string name="start_camera">Start Camera</string>
+    <string name="end_camera">End Camera</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+
+    <string name="select">Select</string>
+    <string name="refresh">Refresh</string>
+    <string name="camera">Camera</string>
+    <string name="no_device">No Device</string>
+</resources>
